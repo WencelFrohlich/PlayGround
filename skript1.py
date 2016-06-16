@@ -1,6 +1,7 @@
 import processing
 import os
 import math
+import gdal
 
 layer = qgis.utils.iface.activeLayer() 
 
